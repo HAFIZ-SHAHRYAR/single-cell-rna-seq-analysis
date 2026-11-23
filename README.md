@@ -6,7 +6,7 @@ This project focuses on learning and performing
 single-cell RNA sequencing (scRNA-seq) analysis
 using real biological datasets.
 
-The analysis will use Python (Scanpy) and R (Seurat).
+The analysis will use Python (Scanpy).
 
 ## Research Objective
 
@@ -18,8 +18,6 @@ single-cell RNA sequencing data.
 
 - Python
 - Scanpy
-- R
-- Seurat
 - Google Colab
 - GitHub
 
